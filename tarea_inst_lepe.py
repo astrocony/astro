@@ -9,7 +9,7 @@ import random
 
 # Get galaxy image
 
-image_file_galaxia='./figs/'+'galaxia.jpg'
+image_file_galaxia='galaxia.jpg'
 
 # Read in RGB
 
